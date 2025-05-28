@@ -19,7 +19,7 @@ E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 
 <!-- feed start -->
 - Ruihua Chen, Bangyu Wu*, Meng Li and Yisi Luo*, Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Representation，IEEE Transactions on Geoscience and Remote Sensing, major revision.
-- Kang Bo, Chen Ruihua, Yang Kai, Li Meng and Wu Bangyu*. Implicit Full Waveform Inversion with Adaptive Fourier Frequency Bases Learning, Geophysical Journal International, submit.
+- Bo Kang, Ruihua Chen, Kai Yang, Meng Li and Bangyu Wu*. Implicit Full Waveform Inversion with Adaptive Fourier Frequency Bases Learning, Geophysical Journal International, submit.
 <!-- feed end -->
 
 </td></tr>
