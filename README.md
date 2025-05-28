@@ -19,7 +19,7 @@ E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 
 <!-- feed start -->
 - **Ruihua Chen**, Bangyu Wu*, Meng Li and Yisi Luo*, Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Representation，IEEE Transactions on Geoscience and Remote Sensing, major revision.
-- **Ruihua Chen**, Bangyu Wu, Meng Li and Kai Yang, Initial Model Incorporation for Deep Learning FWI: Pretraining or Denormalization?, IEEE Geoscience and Remote Sensing Letters, submit.
+- **Ruihua Chen**, Bangyu Wu*, Meng Li and Kai Yang, Initial Model Incorporation for Deep Learning FWI: Pretraining or Denormalization?, IEEE Geoscience and Remote Sensing Letters, submit.
 - Bo Kang, **Ruihua Chen**, Kai Yang, Meng Li and Bangyu Wu*. Implicit Full Waveform Inversion with Adaptive Fourier Frequency Bases Learning, Geophysical Journal International, submit.
 <!-- feed end -->
 
