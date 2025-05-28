@@ -6,11 +6,14 @@
 
 
 <p align="center"><strong><font size=30>We won't change not today not ever, the future comes dancing like our rise !</font></strong></p>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Parisienne&display=swap" rel="stylesheet">
+
 <p align="center">
   <strong>
-    <font face="Brush Script MT, cursive" size="36" color="#FF6B6B" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-      We won't change not today not ever, the future comes dancing like our rise!
-    </font>
+    <span style="font-family: 'Dancing Script', cursive; font-size: 42px; color: #E91E63; text-shadow: 3px 3px 6px rgba(0,0,0,0.2);">
+      We won't change not today not ever,<br>
+      <span style="font-family: 'Parisienne', cursive; font-size: 48px; color: #9C27B0;">the future comes dancing like our rise!</span>
+    </span>
   </strong>
 </p>
 
