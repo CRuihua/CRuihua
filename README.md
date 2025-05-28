@@ -1,4 +1,4 @@
-  ### 🤺 About Ruihua Chen
+  ### 🤺 About Ruihua Chen <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
 
 <img align="right" width="88" src="image.png"/>
 
