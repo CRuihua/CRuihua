@@ -2,7 +2,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Greetings! I am currently a undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU), supervised by Prof. Bangyu Wu. In the future, I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) in 2026, supervised by Prof. Deyu Meng and Bangyu Wu.</p>
+<p>&emsp;&emsp;Greetings! I am currently a undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU), supervised by Prof. Bangyu Wu. In the future, I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) in 2026, supervised by Prof. Deyu Meng and Bangyu Wu, working with Ph.D. student Yisi Luo.</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
