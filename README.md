@@ -8,6 +8,9 @@
 <p align="center"><strong><font size=30>We won't change not today not ever, the future comes dancing like our rise !</font></strong></p>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Parisienne&display=swap" rel="stylesheet">
 
+
+</td></tr>
+
 <p align="center">
   <strong>
     <span style="font-family: 'Dancing Script', cursive; font-size: 42px; color: #E91E63; text-shadow: 3px 3px 6px rgba(0,0,0,0.2);">
@@ -16,8 +19,6 @@
     </span>
   </strong>
 </p>
-
-</td></tr>
 
 <tr><td>
 
