@@ -13,7 +13,7 @@ E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 Journal paper
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
