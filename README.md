@@ -1,4 +1,4 @@
-  ### 🤺 About Ruihua Chen <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=聚焦前沿、强化交叉、顶天立地、服务国家;I'm+Ruihua-Chen+Welcome+!&center=true&size=18"> </a> </div>
+  ### 🤺 About Ruihua Chen （陈瑞华） <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=聚焦前沿、强化交叉、顶天立地、服务国家;I'm+Ruihua-Chen+Welcome+!&center=true&size=18"> </a> </div>
 <img align="right" width="88" src="image.png"/>
 
 &emsp;&emsp; Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home), working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/).  I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)]((https://www.xjtu.edu.cn/)) in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng). In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development [(RIPED)](http://riped.cnpc.com.cn/riped2021/index.shtml). </p>
@@ -31,8 +31,6 @@ E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 <tr><td>
 
 ### 📃 Conference paper
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
 - **陈瑞华**,吴帮玉,李萌,罗倚斯. 基于低秩隐式神经表达的全波形反演方法[C]//中国石油学会石油物探专业委员会.第三届中国石油物探学术年会论文集 (一等奖).
