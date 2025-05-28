@@ -8,17 +8,15 @@
 <p align="center"><strong><font size=30>We won't change not today not ever, the future comes dancing like our rise !</font></strong></p>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Parisienne&display=swap" rel="stylesheet">
 
-
-</td></tr>
-
 <p align="center">
   <strong>
-    <span style="font-family: 'Dancing Script', cursive; font-size: 42px; color: #E91E63; text-shadow: 3px 3px 6px rgba(0,0,0,0.2);">
-      We won't change not today not ever,<br>
-      <span style="font-family: 'Parisienne', cursive; font-size: 48px; color: #9C27B0;">the future comes dancing like our rise!</span>
+    <span style="font-size: 42px; font-family: 'Arial Black', sans-serif; background: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      We won't change not today not ever, the future comes dancing like our rise !
     </span>
   </strong>
 </p>
+
+</td></tr>
 
 <tr><td>
 
