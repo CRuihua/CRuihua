@@ -6,8 +6,13 @@
 
 
 <p align="center"><strong><font size=30>We won't change not today not ever, the future comes dancing like our rise !</font></strong></p>
-<center> We won't change not today not ever, the future comes dancing like our rise !</center>
-
+<p align="center">
+  <strong>
+    <font face="Brush Script MT, cursive" size="36" color="#FF6B6B" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+      We won't change not today not ever, the future comes dancing like our rise!
+    </font>
+  </strong>
+</p>
 
 </td></tr>
 
