@@ -8,8 +8,6 @@
 </td></tr>
 
 <tr><td>
-  
-- [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) &emsp; 📌 2024-03-04 —— 2024-08-28
 
 
   </div>
