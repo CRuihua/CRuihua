@@ -6,7 +6,7 @@
 
 
 
-<p>&emsp;&emsp;<strong> <center> <font size=10> We won't change not today not ever, the future comes dancing like our rise !</center></strong></p>
+<strong> <center> <font size=10> We won't change not today not ever, the future comes dancing like our rise !</center></strong>
 
 
 </td></tr>
