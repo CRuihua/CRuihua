@@ -6,7 +6,7 @@
 
 &emsp;&emsp; My research interests include implicit continuous representation and regularization for PDE-related forward and inverse problems, e.g., wave equation forward modeling, full waveform inversion (FWI).
 
-&emsp;&emsp; E-mail: Ruihua.Chen@stu.xjtu.edu.cn
+E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 
 <font size=5><p align="center"><strong><font size=30>We won't change not today not ever, the future comes dancing like our rise !</font></strong></p></font>
 
