@@ -2,7 +2,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp; \rm{Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU), supervised by Prof. Bangyu Wu , working with Ph.D. student Yisi Luo.  I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) in 2026, supervised by Prof. Deyu Meng. In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development (RIPED).} </p>
+<p>&emsp;&emsp; Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, [Xi’an Jiaotong University (XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home), working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/).  I will pursue a master's degree at the School of Mathematics and Statistics, [Xi’an Jiaotong University (XJTU)]((https://www.xjtu.edu.cn/)) in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng). In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development [(RIPED)](http://riped.cnpc.com.cn/riped2021/index.shtml). </p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
