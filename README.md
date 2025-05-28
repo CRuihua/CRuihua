@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(小孙同学祝您今天愉快!);&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=小孙同学祝您今天愉快! &center=true&size=27"> </a> </h1>
 <!--
 **CRuihua/CRuihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
