@@ -18,13 +18,31 @@ E-mail: Ruihua.Chen@stu.xjtu.edu.cn
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Ruihua Chen, Bangyu Wu*, Meng Li and Yisi Luo*, Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Representation，IEEE Transactions on Geoscience and Remote Sensing, major revision.
-- Bo Kang, Ruihua Chen, Kai Yang, Meng Li and Bangyu Wu*. Implicit Full Waveform Inversion with Adaptive Fourier Frequency Bases Learning, Geophysical Journal International, submit.
+- **Ruihua Chen**, Bangyu Wu*, Meng Li and Yisi Luo*, Full Waveform Inversion With Velocity Model Low-Rank Implicit Neural Representation，IEEE Transactions on Geoscience and Remote Sensing, major revision.
+- Bo Kang, **Ruihua Chen**, Kai Yang, Meng Li and Bangyu Wu*. Implicit Full Waveform Inversion with Adaptive Fourier Frequency Bases Learning, Geophysical Journal International, submit.
 <!-- feed end -->
 
 </td></tr>
 
 <tr><td>
+
+</td></tr>
+
+<tr><td>
+
+### 📃 Conference paper
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- feed start -->
+- **陈瑞华**,吴帮玉,李萌,罗倚斯. 基于低秩隐式神经表达的全波形反演方法[C]//中国石油学会石油物探专业委员会.第三届中国石油物探学术年会论文集 (一等奖).
+- 康博,**陈瑞华**,李萌,吴帮玉. 基于傅里叶重参数化的隐式全波形反演[C]//中国石油学会石油物探专业委员会.第三届中国石油物探学术年会论文集.
+<!-- feed end -->
+
+</td></tr>
+
+<tr><td>
+
 
 
 
